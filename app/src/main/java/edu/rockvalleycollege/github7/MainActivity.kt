@@ -1,5 +1,5 @@
 package edu.rockvalleycollege.github7
-
+// CHuck Konkol
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 
